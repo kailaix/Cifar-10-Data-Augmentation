@@ -1,4 +1,4 @@
-# MNIST-Data-Augmentation
+# Cifar-10-Data-Augmentation
 Cifar-10 Dataset and Data Augmentation for TensorFlow and Keras in Python.
 
 ### Requirements:
