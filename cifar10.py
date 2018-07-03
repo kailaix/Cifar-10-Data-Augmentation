@@ -3,7 +3,7 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.utils.np_utils import to_categorical
 import numpy as np
 
-class MNIST:
+class CIFAR10:
     x_train, y_train, x_test, y_test = None, None, None, None
     train_size, test_size = 0, 0
 
